@@ -1,6 +1,6 @@
 # `ircam-ismm.github.io`
 
-> repository for the `ircam-ismm.github.io` website.
+> repository for the [https://ircam-ismm.github.io](https://ircam-ismm.github.io) website.
 
 ## Contributing
 

@@ -7,11 +7,11 @@ module.exports = {
 
     // Edit on github confiuration
     // cf. https://vuepress.vuejs.org/theme/default-theme-config.html#git-repository-and-edit-links
-    // repo: 'collective-soundworks/ircam-ismm.github.io',
+    repo: 'ircam-ismm/ircam-ismm.github.io',
     // options for generating "Edit this page" link
-    // docsDir: 'docs',
-    // docsBranch: 'sources',
-    // editLinks: true,
+    docsDir: 'docs',
+    docsBranch: 'sources',
+    editLinks: true,
 
 
     // header navigation configuration
