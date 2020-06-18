@@ -1,0 +1,14 @@
+{
+  "name": "soundworks-documentation",
+  "version": "1.0.0",
+  "description": "document website for the collective-soundworks organization",
+  "author": "Benjamin Matuszewski",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs --dest=build"
+  },
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "vuepress": "^1.4.0"
+  }
+}
