@@ -9,6 +9,6 @@
   },
   "license": "BSD-3-Clause",
   "devDependencies": {
-    "vuepress": "^1.4.0"
+    "vuepress": "^1.5.4"
   }
 }
