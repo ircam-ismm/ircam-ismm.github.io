@@ -2,6 +2,8 @@
 
 `MuBu` is a Max toolbox for Multimodal Analysis of Sound and Motion, Sound Synthesis and Interactive Machine Learning. It allows to create interactive gesture-based sonic system, and it's also the base for the CataRT - Corpus based Concatenative Synthesis (presented seperately).
 
+[[toc]]
+
 - Available in the Max package manager and by [Ircam Forum](https://forum.ircam.fr/projects/detail/mubu/)
 
 `MuBu` can be used in different typical use cases
