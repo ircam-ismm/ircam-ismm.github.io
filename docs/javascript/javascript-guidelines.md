@@ -65,7 +65,7 @@ BSD-3-Clause
 
 ### Supported Environments
 
-We should (try to) support at least the following environments: 
+We should (try to) support at least the following environments:
 
 - Rollup
 - Webpack
