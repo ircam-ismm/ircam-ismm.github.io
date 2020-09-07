@@ -1,14 +1,13 @@
-# Javascript related stuff
+# JavaScript tools and libraries
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+These section relates to the Web-based tools created for the researches conducted by the team in the area of collective and distributed music applications.
 
-## Soundworks
+## Ecosystem
 
-## Waves
+The [ecosystem](/javascript/ecosystem.html) page list all the tools and libraries created and actively maintained by the ISMM team.
 
-## Others
+## JavaScript Guidelines
+
+The [JavaScript Guidelines](/javascript/javascript-guidelines.html) page describes the good practices and guidelines used within the team for JavaScript developments of applications and libraries. This page should be considered as an ever ending work in progress.
+
+

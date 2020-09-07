@@ -1,4 +1,6 @@
-# Good Practices for Libraries
+# Javascript Guidelines
+
+[[toc]]
 
 ## Style Guide
 
@@ -52,7 +54,7 @@ scheduler.add(engine, startTime);
 
 ## Credits
 
-The code has been initiated in the framework of the WAVE and CoSiMa research projects, funded by the French National Research Agency (ANR). 
+The code has been initiated in the framework of the WAVE and CoSiMa research projects, funded by the French National Research Agency (ANR).
 
 ## License
 
@@ -61,13 +63,25 @@ BSD-3-Clause
 
 ## `import` and `export`
 
+### Supported Environments
+
+We should (try to) support at least the following environments: 
+
+- Rollup
+- Webpack
+- browser native `import`
+- Node.js (with and without babel)
+- _when stable_: Node.js `import`
+
 cf. [https://github.com/airbnb/javascript/blob/master/README.md#modules](https://github.com/airbnb/javascript/blob/master/README.md#modules)
 
-::: warning Exception
-Using this rule [https://github.com/airbnb/javascript/blob/master/README.md#modules--import-extensions](https://github.com/airbnb/javascript/blob/master/README.md#modules--import-extensions) seems to break native `import` syntax in the browser.
+:::warning Exception
+Using this rule [https://github.com/airbnb/javascript/blob/master/README.md#modules--import-extensions](https://github.com/airbnb/javascript/blob/master/README.md#modules--import-extensions) breaks native `import` syntax in the browser.
 
-Inside libraries `import` SHOULD therefore declare the file extension
+Inside libraries `import` __MUST__ therefore declare the file extension
 :::
+
+@todo: clean integration testing environment
 
 ### Supported Syntaxes
 
@@ -80,9 +94,11 @@ import master from 'waves-masters';
 import { Scheduler } from 'waves-masters';
 ```
 
-### Example 
+### Example
 
-In `waves-masters` this gives the following `index.js` file
+As such, to provide support for both import syntaxes and all the environment, the library should export both named export and an explicit default export.
+
+In `waves-masters` this gives the following `index.js` file:
 
 ```js
 import _TimeEngine from './core/TimeEngine.js';
@@ -115,21 +131,9 @@ export const Scheduler = _Scheduler;
 export const SimpleScheduler = _SimpleScheduler;
 ```
 
-## Supported Environments
+## Transpiling and Shipping
 
-We should (try to) support at least the following environments: 
-
-- Rollup 
-- Webpack 
-- browser native `import`
-- Node.js (with and without babel)
-- _when stable_: Node.js `import`
-
-Integration testing boilerplate cf. [todo](http://nowhere.et)
-
-### Shipping
-
-#### Browser Only Library
+### Browser Only Library
 
 If the library is **client-side** only, ship only the ES-Import sources, as modern bundler (tested on _Rollup_ and _Webpack_) seems to support quite well the transpiling of ES-Import sources, and as native import is now working on modern browsers.
 
@@ -139,7 +143,7 @@ If the library is **client-side** only, ship only the ES-Import sources, as mode
 "main": "src/index.js"
 ```
 
-#### Node.js Only Library
+### Node.js Only Library
 
 If the library is dedicated to **Node.js only**, transpile with babel to pass ES-Import to CommonJS syntax (i.e. `require`, `module.exports`). 
 
@@ -174,11 +178,11 @@ Use:
   }
 ```
 
-#### Node.js and Browser Library
+### Node.js and Browser Library
 
 If the library should work on both **Node.js and browsers**, ship ES-Import code to browsers and bundlers, and CommonJS code to Node.js. 
 
-:::note Note
+:::warning Note
 For now `import` is still experimental in Node.js 13.x.x, review accordingly
 :::
 

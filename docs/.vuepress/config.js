@@ -1,6 +1,6 @@
 module.exports = {
-  title: '{Sound Music Movement Interaction}',
-  description: 'Sound Music Movement Interaction Team - Ircam STMS',
+  title: '{Sound Music Movement} Interaction',
+  description: '{Sound Music Movement Interaction} Team - Ircam STMS',
   themeConfig: {
     logo: '/logo-ismm-200x200.png',
     lastUpdated: 'Last Updated',
@@ -43,7 +43,8 @@ module.exports = {
         collapsable: false,  // optional, defaults to true
         sidebarDepth: 2,    // optional, defaults to 1
         children: [
-          '/javascript/good-practices-for-libraries',
+          '/javascript/ecosystem',
+          '/javascript/javascript-guidelines',
         ]
       },
 
