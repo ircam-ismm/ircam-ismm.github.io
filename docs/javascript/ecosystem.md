@@ -16,7 +16,7 @@ This page lists the JavaScript tools and libraries created and actively maintain
 
 ## `CoMo`
 
-`CoMo` is a full-stack JavaScript framework for developing distributed and gesture based Interactive Machine Learning applications. The framework is built on top of the `soundworks` framework and currently under heavy development.
+`CoMo` is a full-stack JavaScript framework for developing collective gesture-based interactive Sound/Music applications. It makes use of Interactive Machine Learning approaches. The framework is built on top of the `soundworks` framework and currently under heavy development.
 
 - [Github](https://github.com/ircam-ismm/como)
 
