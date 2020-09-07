@@ -1,4 +1,4 @@
-# Max / MSP 
+# Max / MSP Ecosystem
 
 These sections relate to developement for the Max/MSP enviroenemnt (Cycling'74), for audio processing and synthese, and gesture analysis and interactive machine learning.
 
