@@ -1,12 +1,12 @@
-# Max / MSP related stuff
+# Max / MSP Ecosystem
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+These sections relate to developement for the Max/MSP enviroenemnt (Cycling'74), for audio processing and synthesis, and gesture analysis and interactive machine learning.
 
 ## MuBu
+The [MuBu](/max-msp/mubu.html) page describe the MuBu package for building interactive audio applications using sensors and machine learning.
 
-## PiPo
+## CataRT
+
+## Max externals for audio
+
+## Max externals for gesture

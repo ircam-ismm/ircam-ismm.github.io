@@ -33,7 +33,8 @@ module.exports = {
         collapsable: false,  // optional, defaults to true
         sidebarDepth: 2,    // optional, defaults to 1
         children: [
-          '/max-msp/test',
+          '/max-msp/mubu',
+          '/max-msp/catart',
         ]
       },
 
