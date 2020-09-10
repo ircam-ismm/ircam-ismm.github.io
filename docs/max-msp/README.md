@@ -7,6 +7,8 @@ The [MuBu](/max-msp/mubu.html) page describe the MuBu package for building inter
 
 ## CataRT
 
+Corpus-based concatenative synthesis in real-time with [CataRT](/max-msp/catart.html).
+
 ## Max externals for audio
 
 ## Max externals for gesture
