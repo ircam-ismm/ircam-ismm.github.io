@@ -43,12 +43,6 @@ git commit -m 'your message'
 git push origin sources
 ```
 
-Or use the dedicated script:
-
-```
-./publish.sh
-```
-
 ## Examples
 
 ### Adding a Page
@@ -56,7 +50,7 @@ Or use the dedicated script:
 1. Add your markdown file in the directory you are interested in (e.g. `/misc`)
 
 ::: tip Note
-If your file is quite a long file, it can be nice to put a "table of content" on top of it using the `[[toc]]` command:
+If your file is quite long, it can be nice to put a "table of content" on top of it using the `[[toc]]` macro:
 
 ```md
 # My Awesome Document
@@ -101,27 +95,4 @@ cf. [https://vuepress.vuejs.org/guide/markdown.html#table-of-contents](https://v
 ```
 
 3. [Publish](#publish)
-
-### Adding a "Tutorial" Page
-
-Creating a "tutorial" page follow the same process as a "Misc" page, except your file should be placed in the `/tutorials` directory and the link in the side-bar should be placed in the `Tutorials` entry of the `config.js` file:
-
-```js
-{
-  title: 'Tutorials',      // required
-  path: '/tutorials/',     // optional, which should be a absolute path.
-  collapsable: false,  // optional, defaults to true
-  sidebarDepth: 2,    // optional, defaults to 1
-  children: [
-    '/tutorials/state-manager',
-    // add your file here
-  ]
-},
-```
-
-<!--
-## Add a "Service" Entry
-
-@todo
--->
 
