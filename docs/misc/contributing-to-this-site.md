@@ -43,9 +43,7 @@ git commit -m 'your message'
 git push origin sources
 ```
 
-## Examples
-
-### Adding a Page
+## Add a Page
 
 1. Add your markdown file in the directory you are interested in (e.g. `/misc`)
 
