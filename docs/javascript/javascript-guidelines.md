@@ -174,7 +174,7 @@ Use:
     "@babel/core": "^7.9.0",
     "@babel/plugin-transform-modules-commonjs": "^7.9.0",
     "chokidar": "^3.0.1",
-    "chokidar-cli": "^2.1.0",
+    "chokidar-cli": "^2.1.0"
   }
 ```
 
