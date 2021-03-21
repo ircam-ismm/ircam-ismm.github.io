@@ -13,7 +13,11 @@ The current CataRT comes in three flavours:
 
 Of historical interest is the original <a href="http://imtr.ircam.fr/imtr/CataRT" target="_blank" rel="noopener noreferrer"><em>CataRT classic</em></a>, a modular patch system for Max/MSP with the <a title="FTM&amp;Co" href="http://ismm.ircam.fr/ftmco/">FTM&amp;Co. extensions</a> (for Mac and Windows)</li>
 
-See also:
+## Support and Community
+
+Discussions about features and issues takes place on the [Forum discussion groups](https://discussion.forum.ircam.fr/categories), accessible from the respective [CataRT Forum projects](https://forum.ircam.fr/topics/detail/60-Catart/).
+
+## See Also
 <ul>
  	<li><a href="http://imtr.ircam.fr/imtr/CataRT_Instrument" target="_blank" rel="noopener noreferrer">CataRT as an expressive performance instrument</a>, collection of audio and video examples</li>
  	<li><a href="http://imtr.ircam.fr/imtr/CataRT_Music" target="_blank" rel="noopener noreferrer">Music and installations made with CataRT</a></li>
