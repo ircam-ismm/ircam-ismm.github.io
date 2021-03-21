@@ -8,7 +8,7 @@ The current CataRT comes in three flavours:
 <ul>
  	<li><a title="MuBu" href="https://forum.ircam.fr/projects/detail/catart-mubu/"><em>CataRT-MuBu</em></a>, patches for Max using objects from the <a title="MuBu" href="http://ismm.ircam.fr/mubu/">MuBu library</a>, and descriptor analysis via the <a title="PiPo" href="http://ismm.ircam.fr/pipo/">PiPo framework</a></li>
  	<li><em><a href="https://forum.ircam.fr/projects/detail/catart-standalone/" target="_blank" rel="noopener noreferrer">CataRT Standalone Application</a>, </em>distributed by the Ircam Forum (for Mac)</li>
- 	<li><em>SKataRT</em> Max4Live device for <em>Ableton Live</em>, in beta test</li>
+ 	<li><em>[SKataRT](https://forum.ircam.fr/projects/detail/skatart/)</em> Max4Live device for <em>Ableton Live</em>, on the Ircam Forum.</li>
 </ul>
 
 Of historical interest is the original <a href="http://imtr.ircam.fr/imtr/CataRT" target="_blank" rel="noopener noreferrer"><em>CataRT classic</em></a>, a modular patch system for Max/MSP with the <a title="FTM&amp;Co" href="http://ismm.ircam.fr/ftmco/">FTM&amp;Co. extensions</a> (for Mac and Windows)</li>
