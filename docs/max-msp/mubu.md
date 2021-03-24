@@ -11,12 +11,11 @@
 
 ## Recording, playing, analyzing and visualizing multidmodal data
 
-```
  - audio and audio descriptors
  - sensors data and motion descriptors
  - MIDI
  - Temporal markers
-```
+
 
 ## Real-time processing of audio and sensor data
 ```
