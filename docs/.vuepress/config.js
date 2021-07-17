@@ -7,7 +7,7 @@ module.exports = {
 
     // Edit on github confiuration
     // cf. https://vuepress.vuejs.org/theme/default-theme-config.html#git-repository-and-edit-links
-    repo: 'ircam-ismm/ircam-ismm.github.io',
+    repo: 'ircam-ismm/',
     // options for generating "Edit this page" link
     docsDir: 'docs',
     docsBranch: 'sources',
