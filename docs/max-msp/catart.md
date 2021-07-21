@@ -9,11 +9,22 @@ For instance, this allows to create ***expressive textural evolution*** using pe
 The current CataRT comes in three flavours:
 <ul>
  	<li><em>[CataRT-MuBu](https://forum.ircam.fr/projects/detail/catart-mubu/)</em>, patches for Max using objects from the <a title="MuBu" href="http://ismm.ircam.fr/mubu/">MuBu library</a>, and descriptor analysis via the <a title="PiPo" href="http://ismm.ircam.fr/pipo/">PiPo framework</a></li>
- 	<li><em>[SKataRT](https://forum.ircam.fr/projects/detail/skatart/)</em> Max4Live device for <em>Ableton Live</em>, on the Ircam Forum.</li>
- 	<li><em>[CataRT Standalone Application](https://forum.ircam.fr/projects/detail/catart-standalone/)</em>, distributed by the Ircam Forum (for Mac)</li>
+ 	<li><em>[SKataRT](https://forum.ircam.fr/projects/detail/skatart/)</em> Max4Live device for <em>Ableton Live</em>, on the Ircam Forum.</li> (Mac/Windows)
+ 	<li><em>[CataRT Standalone Application](https://forum.ircam.fr/projects/detail/catart-standalone/)</em>, distributed by the Ircam Forum (Mac)</li>
 </ul>
 
-Of historical interest is the original <a href="http://imtr.ircam.fr/imtr/CataRT" target="_blank" rel="noopener noreferrer"><em>CataRT classic</em></a>, a modular patch system for Max/MSP with the <a title="FTM&amp;Co" href="http://ismm.ircam.fr/ftmco/">FTM&amp;Co. extensions</a> (for Mac and Windows)</li>
+Of historical interest is the original [<em>CataRT classic</em>](http://imtr.ircam.fr/imtr/CataRT), a modular patch system for Max/MSP with the <a title="FTM&amp;Co" href="http://ismm.ircam.fr/ftmco/">FTM&amp;Co. extensions</a> (Mac/Windows)</li>
+
+## Videos
+
+This early video shows how various sounds (train and voice recordings) are imported and browsed by timbre in [<em>CataRT classic</em>](http://imtr.ircam.fr/imtr/CataRT):
+<iframe width="640" height="480" src="https://www.youtube.com/embed/cWXdTlu_n44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Here, several recordings of wind are used in the
+<em>[CataRT Standalone](https://forum.ircam.fr/projects/detail/catart-standalone/)</em>
+to recreate the temporal evolution of wind with varying strength and
+character (gusts):
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/26838986" width="640" height="480" frameborder="0" allowfullscreen></iframe>
 
 ## Support and Community
 
