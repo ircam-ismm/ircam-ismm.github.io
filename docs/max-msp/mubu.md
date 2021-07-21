@@ -11,36 +11,33 @@
 
 ## Recording, playing, analyzing and visualizing multidmodal data
 
-```
- - audio and audio descriptors
- - sensors data and motion descriptors
- - MIDI
- - Temporal markers
-```
+- audio and audio descriptors
+- sensors data and motion descriptors
+- MIDI
+- Temporal markers
+
 
 ## Real-time processing of audio and sensor data
-```
- - filtering
- - segmentation
- - computing descriptors (fft, mfcc, wavelet, statistic)
-```
+
+- filtering
+- segmentation
+- computing descriptors (fft, mfcc, wavelet, statistic)
+
 
 ## Interactive Machine Learning
-```
- - Knn
- - GMM (recognitio)), GMR (regression)
- - HMM (recognition), XMM (regression); 
- - dtw
- - Gesture following (GF) and Gesture Variation Following
+
+- Knn
+- GMM (recognitio)), GMR (regression)
+- HMM (recognition), XMM (regression); 
+- dtw
+- Gesture following (GF) and Gesture Variation Following
  
-```
 
 ## Interactive Sound Synthesis
-```
- - Granular synthesis
- - Concatenative synthesis
- - Additive synthese 
+
+- Granular synthesis
+- Concatenative synthesis
+- Additive synthese 
  
-```
 
 > License: Forum (Toolbox distributed freely, proprietary code)
