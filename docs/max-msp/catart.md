@@ -13,11 +13,11 @@ The current CataRT comes in three flavours:
  	<li><em>[CataRT Standalone Application](https://forum.ircam.fr/projects/detail/catart-standalone/)</em>, distributed by the Ircam Forum (Mac)</li>
 </ul>
 
-Of historical interest is the original [<em>CataRT classic</em>](http://imtr.ircam.fr/imtr/CataRT), a modular patch system for Max/MSP with the <a title="FTM&amp;Co" href="http://ismm.ircam.fr/ftmco/">FTM&amp;Co. extensions</a> (Mac/Windows)</li>
+Of historical interest is the original [<em>CataRT classic</em>](http://imtr.ircam.fr/imtr/CataRT) from 2005, a modular patch system for Max/MSP with the <a title="FTM&amp;Co" href="http://ismm.ircam.fr/ftmco/">FTM&amp;Co. extensions</a> (Mac/Windows)</li>
 
 ## Videos
 
-This early video shows how various sounds (train and voice recordings) are imported and browsed by timbre in [<em>CataRT classic</em>](http://imtr.ircam.fr/imtr/CataRT):
+This video from 2010 shows how various sounds (train and voice recordings) are imported and browsed by timbre in [<em>CataRT classic</em>](http://imtr.ircam.fr/imtr/CataRT):
 <iframe width="640" height="480" src="https://www.youtube.com/embed/cWXdTlu_n44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Here, several recordings of wind are used in the
