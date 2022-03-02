@@ -5,7 +5,7 @@
 [[toc]]
 
 - Available in the Max package manager and from the [Ircam Forum](https://forum.ircam.fr/projects/detail/mubu/)
-- - [Video Tutorials @IrcamForum]([Ircam Forum](https://forum.ircam.fr/projects/detail/mubu/))
+- [Video Tutorials @IrcamForum](https://forum.ircam.fr/article/detail/tutoriels-mubu/)
 
 `MuBu` can be used in different typical use cases
 
