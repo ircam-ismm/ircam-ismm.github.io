@@ -1,3 +1,4 @@
+
 module.exports = {
   title: '{Sound Music Movement} Interaction',
   description: '{Sound Music Movement Interaction} Team - Ircam STMS',
@@ -16,15 +17,15 @@ module.exports = {
 
     // header navigation configuration
     nav: [
-      { text: 'Youtube Channel', link: 'https://www.youtube.com/ircamismm' },
-      { text: 'Institutional Website', link: 'https://www.stms-lab.fr/team/interaction-son-musique-mouvement/' },
+      { text: 'Youtube', link: 'https://www.youtube.com/ircamismm' },
+      { text: 'Research Website', link: 'https://www.stms-lab.fr/team/interaction-son-musique-mouvement/' },
     ],
 
     // side bar configuration
     sidebar: [
       ['', ' '], // dirty hack to have the "next" arrow on the homepage...
 
-      '/research-areas',
+     // '/research-areas',
       // '/software',
 
       {
@@ -35,6 +36,7 @@ module.exports = {
         children: [
           '/max-msp/mubu',
           '/max-msp/catart',
+          '/max-msp/gst',
         ]
       },
 
@@ -49,7 +51,7 @@ module.exports = {
         ]
       },
 
-      '/hardware',
+      //'/hardware',
 
       {
         title: 'Misc',      // required
