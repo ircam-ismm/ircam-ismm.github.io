@@ -5,6 +5,10 @@ The  [Gestural Sound Toolit](https://github.com/ircam-ismm/Gestural-Sound-Toolki
 - Available at [Gestural-Sound-Toolkit@github](https://github.com/ircam-ismm/Gestural-Sound-Toolkit)
 - [Tech Report](https://nubo.ircam.fr/index.php/s/FxJYBzJtGQSNcCg)
 
+[[toc]]
+
+## Introduction
+
 ![GST module design](./images-max-msp/gst-overview.png)
 
 GST is designed to build gestural interactions with sounds, using ML methods for gesture recognition, gesture following, or gesture-sound mapping among other applications. The toolkit is built on the notion of high-level modules handling specific operations. The toolkit is comprised of four types of modules:
@@ -18,17 +22,15 @@ GST is designed to build gestural interactions with sounds, using ML methods for
 - Synthesis modules allow prerecorded sounds to be played and manipulated. The toolkit integrates temporal modulation (scrubbing). A trigger module allows for triggering a sound from a sound bank. A manipulation module allows sound to be sculpted and modified live as movement is performed.
 
 
-> Module Design
+## Module Design
 
 As an example, the figure bewlo depicts the moving average module, called [sp.movingaverage.maxpat]. On the left, the patcher is shown in edit (or implementation) mode. It has two inputs and one output. In between, the patcher implements a moving average filter using some components from the MuBu library. Elements of the patch highlighted in pink are the ones remaining in the interface, depicted on the right of the Figure. The patcher opens in presentation mode by default (right of Figure below). Each module is independent from other modules. Therefore, extending the toolkit is made easy. One can create an arbitrary patchers and can follow the guidelines for its look in presentation mode, which defines its interface.
 ![GST module design](./images-max-msp/gst-module-design.png)
 
-[[toc]]
 
+## Typical use cases
 
-Typical use cases
-
-> Use case 1: Pedagogical tool for gestural sound interaction 
+### Use case 1: Pedagogical tool for gestural sound interaction 
 
 Ihe toolkit has been used yearly in a
 pedagogical context. We describe this context and report observations made on
@@ -54,7 +56,7 @@ methodology, the notion of mappings and its design.
 development of such scenario, motivating design choices, and showing a
 working prototype at the end of the course.
 
-> Use case 2: Research through design - rapid prototyping
+### Use case 2: Research through design - rapid prototyping
 
 Building a tool that can be used by designers
 
@@ -75,7 +77,6 @@ their scenarios, after a quick tutorial to help them handle the tool.
 The motivation behind the design of the toolkit was to provide designers with a
 tool that allows them to realize their own, some unrealistic, project involving
 gesture-based interaction with sound. Our objective was to build a tool that
-6
 includes designers with no programming experience, while enabling versatility,
 which means that designers have to not feel limited in the scope of projects they
 would like to develop
