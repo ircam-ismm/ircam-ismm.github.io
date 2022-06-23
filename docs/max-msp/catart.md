@@ -1,4 +1,5 @@
 # CataRT
+![catart-mubu-simple.png](https://forum.ircam.fr/projects/detail/catart-mubu)
 
 [[toc]]
 
