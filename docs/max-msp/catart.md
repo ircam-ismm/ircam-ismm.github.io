@@ -8,20 +8,44 @@ The concatenative real-time sound synthesis system <strong>CataRT</strong> plays
 For instance, this allows to create ***expressive textural evolution*** using perceptual timbre descriptors, control of output grains by similarity to audio input (***audio mosaicing*** or beat replacement), or juxtaposition of sounds from varying sources by timbral features.
 
 The current CataRT comes in three flavours:
-<table>
-<tr>
-<td><img align=left height=100 alt="CataRT Mubu Main Patch" src="./images-max-msp/catart-mubu-simple.png" /></td>
-<td>[CataRT-MuBu](https://forum.ircam.fr/projects/detail/catart-mubu/)</em>, patches for Max using objects from the <a title="MuBu" href="http://ismm.ircam.fr/mubu/">MuBu library</a>, and descriptor analysis via the <a title="PiPo" href="http://ismm.ircam.fr/pipo/">PiPo framework</a></td>
+
+<table border="0" cellpadding="0">
+<td width=25% valign=middle>
+<img align=left height=100 alt="CataRT Mubu Main Patch" src="./images-max-msp/catart-mubu-simple.png" />
+</td>
+
+<td width=25% valign=middle>
+<em><a href="https://forum.ircam.fr/projects/detail/catart-mubu/">CataRT-MuBu</a></em>
+</td>
+
+<td valign=middle>patches for Max using objects from the <a title="MuBu" href="http://ismm.ircam.fr/mubu/">MuBu library</a>, and descriptor analysis via the <a title="PiPo" href="http://ismm.ircam.fr/pipo/">PiPo framework</a>
+</td>
 </tr>
 
 <tr>
-<td><img align=left height=100 alt="SkataRT screenshot" src="./images-max-msp/SkataRT-corpus-v1.5.png" /></td>
-<td>[SKataRT](https://forum.ircam.fr/projects/detail/skatart/)</em> Max4Live device for <em>Ableton Live</em>, on the Ircam Forum.</td> (Mac/Windows)
+<td>
+<img align=left height=100 alt="SkataRT screenshot" src="./images-max-msp/SkataRT-corpus-v1.5.png" />
+</td>
+
+<td>
+<em><a href="https://forum.ircam.fr/projects/detail/skatart/">SKataRT</a></em>
+</td>
+
+<td>Max4Live device for <em>Ableton Live</em>, on the Ircam Forum (Mac/Windows).
+</td> 
 </tr>
 
 <tr>
-<td><img align=left height=100 alt="CataRT App screenshot" src="./images-max-msp/catart-app-1.6-main.png" /></td>
-<td>[CataRT Standalone Application](https://forum.ircam.fr/projects/detail/catart-standalone/)</em>, distributed by the Ircam Forum (Mac)</td>
+<td>
+<img align=left height=100 alt="CataRT App screenshot" src="./images-max-msp/catart-app-1.6-main.png" />
+</td>
+
+<td>
+<em><a href="https://forum.ircam.fr/projects/detail/catart-standalone/">CataRT Standalone Application</a></em>
+</td>
+
+<td>distributed by the Ircam Forum (Mac Intel)
+</td>
 </tr>
 </table>
 
