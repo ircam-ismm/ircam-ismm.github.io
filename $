@@ -1,0 +1,12 @@
+added gst and simplified menu
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch sources
+# Your branch is up to date with 'origin/sources'.
+#
+# Changes to be committed:
+#	modified:   docs/.vuepress/config.js
+#	modified:   docs/README.md
+#	new file:   docs/max-msp/gst.md
+#
