@@ -1,5 +1,5 @@
 # CataRT
-![catart-mubu-simple.png](https://forum.ircam.fr/projects/detail/catart-mubu)
+![CataRT Mubu Main Patch](./images-max-msp/catart-mubu-simple.png)
 
 [[toc]]
 
