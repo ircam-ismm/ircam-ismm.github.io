@@ -3,7 +3,7 @@
 The  [Gestural Sound Toolit](https://github.com/ircam-ismm/Gestural-Sound-Toolkit) using the package `MuBu` (available from the Cylcling'74 packages), is a set of object to facilitate sensor processing, gesture recognition, and mapping to sound engines.
 
 - Available at [Gestural-Sound-Toolkit@github](https://github.com/ircam-ismm/Gestural-Sound-Toolkit)
-- [Tech Report](hhttps://nubo.ircam.fr/index.php/apps/files/?dir=/public_shares_fb&fileid=10684307)
+- [Tech Report](https://nubo.ircam.fr/index.php/s/FxJYBzJtGQSNcCg)
 
 ![GST module design](./images-max-msp/gst-overview.png)
 
