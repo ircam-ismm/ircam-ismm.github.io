@@ -65,8 +65,12 @@ ISIR Sorbonne Université (Baptiste Caramiaux)
 
 LIMSI CNRS (Jules Françoise)
 
-## Publications
+Acknowledgement: [ELEMENT ](https://element-project.ircam.fr) (ANR-18-CE33-0002)
 
-- Schnell, N., Röbel, A., Schwarz, D., Peeters, G., & Borghesi, R. (2009, August). MuBu and friends–assembling tools for content based real-time interactive audio processing in Max/MSP. In ICMC.
-- Françoise, J., Schnell, N., Borghesi, R., & Bevilacqua, F. (2014, June). Probabilistic models for designing motion and sound relationships. In Proceedings of the 2014 international conference on new interfaces for musical expression (pp. 287-292).
+
+## Publications
+- Caramiaux, B., Altavilla, A., Françoise, F., Bevilacqua, F., (2022). Gestural Sound Toolkit: Reflections on an Interactive Design Project, NIME Demos, 2022
+- Caramiaux, B., Altavilla, A., Françoise, J., & Bevilacqua, F. (2022). Gestural Sound Toolkit: Reflections on an Interactive Design Project. International Conference on New Interfaces for Musical Expression. Retrieved from https://nime.pubpub.org/pub/vpgn52hr
 - Caramiaux, B., Altavilla, A., Pobiner, S. G., & Tanaka, A. (2015, April). Form follows sound: designing interactions from sonic memories. In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (pp. 3943-3952).
+- Françoise, J., Schnell, N., Borghesi, R., & Bevilacqua, F. (2014, June). Probabilistic models for designing motion and sound relationships. In Proceedings of the 2014 international conference on new interfaces for musical expression (pp. 287-292).
+- Schnell, N., Röbel, A., Schwarz, D., Peeters, G., & Borghesi, R. (2009, August). MuBu and friends–assembling tools for content based real-time interactive audio processing in Max/MSP. In ICMC.
