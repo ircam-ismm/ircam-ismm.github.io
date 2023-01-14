@@ -9,16 +9,32 @@ For instance, this allows to create ***expressive textural evolution*** using pe
 
 The current CataRT comes in three flavours:
 
-<table border="0" cellpadding="0">
+<style>
+table {
+	border: "0";
+	cellpadding: "0";
+	width: "100%";
+}
+td {
+valign: "middle";
+min-width: 80px;
+}
+img {
+	valign: "middle";
+}
+</style>
+
+<table>
 <td width=25% valign=middle>
-<img align=left height=100 alt="CataRT Mubu Main Patch" src="./images-max-msp/catart-mubu-simple.png" />
+<img align=left valign=middle height=100 alt="CataRT Mubu Main Patch" src="./images-max-msp/catart-mubu-simple.png" />
 </td>
 
-<td width=25% valign=middle>
+<td width=25% min-width=60px valign=middle>
 <em><a href="https://forum.ircam.fr/projects/detail/catart-mubu/">CataRT-MuBu</a></em>
 </td>
 
-<td valign=middle>patches for Max using objects from the <a title="MuBu" href="http://ismm.ircam.fr/mubu/">MuBu library</a>, and descriptor analysis via the <a title="PiPo" href="http://ismm.ircam.fr/pipo/">PiPo framework</a>
+<td width=50% valign=middle  min-width=60px>
+patches for Max using objects from the <a title="MuBu" href="http://ismm.ircam.fr/mubu/">MuBu library</a>, and descriptor analysis via the <a title="PiPo" href="http://ismm.ircam.fr/pipo/">PiPo framework</a>
 </td>
 </tr>
 
@@ -31,7 +47,8 @@ The current CataRT comes in three flavours:
 <em><a href="https://forum.ircam.fr/projects/detail/skatart/">SKataRT</a></em>
 </td>
 
-<td>Max4Live device for <em>Ableton Live</em>, on the Ircam Forum (Mac/Windows).
+<td>
+Max4Live device for <em>Ableton Live</em>, on the Ircam Forum (Mac/Windows).
 </td> 
 </tr>
 
