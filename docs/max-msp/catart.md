@@ -3,7 +3,7 @@
 
 [[toc]]
 
-The concatenative real-time sound synthesis system <strong>CataRT</strong> plays grains from a large corpus of segmented and descriptor-analysed sounds according to proximity to a target position in the descriptor space. This can be seen as a content-based extension to granular synthesis providing direct access to specific sound characteristics.
+The concatenative real-time sound synthesis system <strong>CataRT</strong>, created in 2005, plays grains from a large corpus of segmented and descriptor-analysed sounds according to proximity to a target position in the descriptor space. This can be seen as a content-based extension to granular synthesis providing direct access to specific sound characteristics.
 
 For instance, this allows to create ***expressive textural evolution*** using perceptual timbre descriptors, control of output grains by similarity to audio input (***audio mosaicing*** or beat replacement), or juxtaposition of sounds from varying sources by timbral features.
 
