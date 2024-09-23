@@ -34,7 +34,7 @@ img {
 </td>
 
 <td width=50% valign=middle  min-width=60px>
-patches for Max using objects from the <a title="MuBu" href="http://ismm.ircam.fr/mubu/">MuBu library</a>, and descriptor analysis via the <a title="PiPo" href="http://ismm.ircam.fr/pipo/">PiPo framework</a>
+patches for Max using objects from the <a title="MuBu" href="https://forum.ircam.fr/projects/detail/mubu/">MuBu library</a>, and descriptor analysis via the <a title="PiPo" href="https://github.com/ircam-ismm/pipo/">PiPo framework</a>
 </td>
 </tr>
 
@@ -66,7 +66,7 @@ Max4Live device for <em>Ableton Live</em>, on the Ircam Forum (Mac/Windows).
 </tr>
 </table>
 
-Of historical interest is the original [<em>CataRT classic</em>](http://imtr.ircam.fr/imtr/CataRT) from 2005, a modular patch system for Max/MSP with the <a title="FTM&amp;Co" href="http://ismm.ircam.fr/ftmco/">FTM&amp;Co. extensions</a> (Mac/Windows)
+Of historical interest is the original [<em>CataRT classic</em>](http://imtr.ircam.fr/imtr/CataRT) from 2005, a modular patch system for Max/MSP with the <a title="FTM&amp;Co" href="https://forum.ircam.fr/projects/detail/ftm/">FTM&amp;Co. extensions</a> (Mac/Windows, see also [ftm.ircam.fr](http://ftm.ircam.fr))
 
 ## Videos
 
