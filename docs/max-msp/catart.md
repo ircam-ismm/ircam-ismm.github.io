@@ -61,7 +61,7 @@ Max4Live device for <em>Ableton Live</em>, on the Ircam Forum (Mac/Windows).
 <em><a href="https://forum.ircam.fr/projects/detail/catart-standalone/">CataRT Standalone Application</a></em>
 </td>
 
-<td>distributed by the Ircam Forum (Mac Intel)
+<td>distributed by the Ircam Forum (Mac Intel/ARM)
 </td>
 </tr>
 </table>
