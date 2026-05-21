@@ -1,6 +1,6 @@
 # VOIX SINGULIÈRES | EXPERIENCE COLLECTIVE
 
-[Voix singulière, expérience collective](https://www.cite-sciences.fr/fr/au-programme/lieux-ressources/carrefour-numerique2/les-appels-a-projets-innovants/prototypes-et-experiences-sonores-laureats-2025/voix-singulieres-experience-collective) est une installation interactive et participative portée par l’équipe ISMM de l’Ircam, lauréate de l’appel à projets innovants Universcience 2025, thématique « Prototypes et expériences sonores ». Cette page propose quelques éléments sur le contexte de recherche scientifique, technologique, et artistique dans lequel ce projet s'inscrit.
+[Voix singulière, expérience collective](https://www.cite-sciences.fr/fr/au-programme/lieux-ressources/carrefour-numerique2/les-appels-a-projets-innovants/prototypes-et-experiences-sonores-laureats-2025/voix-singulieres-experience-collective) est une installation interactive et participative portée par l’équipe ISMM de l’Ircam, lauréate de l’[Appel à projets innovants Universcience 2025](https://www.universcience.fr/fr/professionnels/appel-a-projets-innovants-universcience/appel-a-projets-innovants-24-25), thématique « Prototypes et expériences sonores ». Cette page propose quelques éléments sur le contexte de recherche scientifique, technologique, et artistique dans lequel ce projet s'inscrit.
 
 
 ![](./images-universcience/SITE_Illustrations.png)
