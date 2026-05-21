@@ -43,7 +43,7 @@ La conception l'installation sonore à la Cité des sciences et de l'Industrie a
 - **Sur le plan méthodologique**, en permettant de concevoir les interactions avec ces systèmes génératifs dans des [ateliers participatifs de co-conception](https://www.cite-sciences.fr/fr/au-programme/lieux-ressources/carrefour-numerique2/les-appels-a-projets-innovants/prototypes-et-experiences-sonores-laureats-2025) avec les publics et les équipes d’Universcience, plutôt que dans un studio avec des artistes experts.
 
 
-Illustrations.
+Illustrations : Louise Viollet Duval.
 
 
 
