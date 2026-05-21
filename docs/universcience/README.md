@@ -6,7 +6,7 @@
 ![](./images-universcience/SITE_Illustrations.png)
 
 
-L’équipe Interaction, Son, Musique, Mouvement (ISMM - UMR STMS) de l’Ircam (Institut de recherche et coordination acoustique) développe de nouvelles pratiques musicales à l’aide de la technologie. L'installation s’inscrit dans deux axes de recherches : les interactions musicales collectives et l'interaction avec des modèles de synthèse sonore.
+L’équipe Interaction, Son, Musique, Mouvement (ISMM - UMR STMS) de l’Ircam (Institut de recherche et coordination acoustique) développe de nouvelles pratiques musicales à l’aide de la technologie. L'installation s’inscrit dans deux axes de recherches : les **interactions musicales collectives** et l'**interaction avec des modèles de synthèse sonore**.
 
 
 ## Interactions musicales collectives
