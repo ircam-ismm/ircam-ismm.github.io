@@ -2,7 +2,7 @@
 
 L’équipe Interaction, Son, Musique, Mouvement (ISMM - UMR STMS) de l’Ircam (Institut de recherche et coordination acoustique) développe de nouvelles pratiques musicales à l’aide de la technologie. 
 
-![smartphone-axes](./images-universcience/SITE_Illustrations.png)
+![](./images-universcience/SITE_Illustrations.png)
 
 Cette installation s’inscrit dans deux axes de recherches : les interactions musicales collectives et l'interaction avec des modèles de synthèse sonore.
 
@@ -11,12 +11,12 @@ Cette installation s’inscrit dans deux axes de recherches : les interactions m
 
 L'équipe ISMM conçoit des interactions musicales collectives basées sur des systèmes musicaux distribués (où différents appareils sont connectés).
  
-![smartphone-axes](./images-universcience/SITE_Illustrations2.png)
+![](./images-universcience/SITE_Illustrations2.png)
 
 
 ## Interaction avec des modèles de synthèse sonore
 
-![smartphone-axes](./images-universcience/SITE_Illustrations4.png)
+![](./images-universcience/SITE_Illustrations4.png)
 
 Un autre champ de recherche de l'équipe est le design d’interaction avec des modèles de synthèse sonore pour créer de nouveau instruments logiciels pour la création musicale.
 
@@ -29,8 +29,6 @@ C’est par exemple le cas dans le concert Electro-Odyssée Memoria avec Fabrizi
 [![Electro-Odyssée Memoria](https://img.youtube.com/vi/yXSNCLuCFCQ/0.jpg)](https://www.youtube.com/watch?v=yXSNCLuCFCQ)
 
 
-
-
 ## Conception de l'installation
 
 La conception de ce prototype a participé au processus de recherche :
@@ -38,5 +36,5 @@ La conception de ce prototype a participé au processus de recherche :
 - **Sur le plan technologique**, en permettant d’expérimenter une association inédite de technologies issues de ces champs de recherche  
 - **Sur le plan méthodologique**, en permettant de concevoir les interactions avec ces systèmes génératifs dans des ateliers participatifs de co-conception avec les publics et les équipes d’Universcience, plutôt que dans un studio avec des artistes experts
 
-![smartphone-axes](./images-universcience/SITE_Illustrations3.png)
+![](./images-universcience/SITE_Illustrations3.png)
 
